@@ -1,1 +1,538 @@
-{"dams":[{"activeFullnessAmount":53.66659036282477,"city":"Karaman","dam":"ERMENEK","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":52.932657494569156,"city":"Mersin","dam":"ALAK\u00d6PR\u00dc","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":4.318795087835233,"city":"Adana","dam":"\u00c7ATALAN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":44.87362637362637,"city":"Kayseri","dam":"BAH\u00c7EL\u0130K","date":"2024-11-20T00:00:00+03:00"},{"activeFullnessAmount":9.6282490764469,"city":"Adana","dam":"YED\u0130G\u00d6ZE","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":36.9925873632192,"city":"Adana","dam":"FEKE-2","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":21.11062141912737,"city":"Adana","dam":"MENGE HES","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":51.455026455026456,"city":"Adana","dam":"KAV\u015eAKBEND\u0130 HES","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":46.80655737704918,"city":"Kayseri","dam":"G\u00dcM\u00dc\u015e\u00d6REN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":13.805668016194332,"city":"Adana","dam":"G\u00d6KTA\u015e-1","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":37.18499127399651,"city":"Osmaniye","dam":"ASLANTA\u015e","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":50.79619602943218,"city":"Kahramanmara\u015f","dam":"MENZELET","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":26.836475464634308,"city":"Kahramanmara\u015f","dam":"SIR","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":12.356061586233665,"city":"Adana","dam":"KOZAN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":19.274785421072274,"city":"Kahramanmara\u015f","dam":"KARTALKAYA","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":92.35099337748345,"city":null,"dam":"BERKE ","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":41.44144144144144,"city":"Kahramanmara\u015f","dam":"KILAVUZLU","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":24.328173374613,"city":"Kahramanmara\u015f","dam":"KAND\u0130L HES","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":90.35065267468646,"city":"Kahramanmara\u015f","dam":"SARIG\u00dcZEL HES","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":48.82452510814369,"city":"G\u00fcm\u00fc\u015fhane","dam":"K\u00dcRT\u00dcN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":7.572230590168424,"city":"G\u00fcm\u00fc\u015fhane","dam":"TORUL","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":3.0934343434343434,"city":"Ordu","dam":"TOP\u00c7AM-ORDU","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":34.7594780758246,"city":"Van","dam":"SARIMEHMET","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":59.3629230589062,"city":"Van","dam":"ZERNEK","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":1.0674330288412193,"city":"Antalya","dam":"YALNIZARDI\u00c7","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":20.26200776973336,"city":"Yozgat","dam":"\u00c7EKEREK","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":57.97546012269939,"city":"Sakarya","dam":"KARGI BARAJI VE HES","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":47.379223239658984,"city":"Hatay","dam":"B\u00dcY\u00dcK KARA\u00c7AY","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":1.6399286987522281,"city":"Bart\u0131n","dam":"K\u0130RAZLIK\u00d6PR\u00dc","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":73.3026874115983,"city":"Ankara","dam":"G\u00dcRS\u00d6\u011e\u00dcT-1 BARAJI","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":0.8578544414721889,"city":"\u00c7anakkale","dam":"YEN\u0130CE-G\u00d6NEN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":9.614313561681982,"city":"Bal\u0131kesir","dam":"\u00c7AYG\u00d6REN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":28.77285318559557,"city":"Bal\u0131kesir","dam":"MANYAS","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":29.05937148669629,"city":"Bursa","dam":"\u00c7INARCIK","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":66.48936170212765,"city":"Bursa","dam":"DEVEC\u0130KONA\u011eI","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":1.1680351567017462,"city":"\u00c7anakkale","dam":"BAYRAM\u0130\u00c7","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":41.753926701570684,"city":"Afyonkarahisar","dam":"\u00c7APALI D\u0130NAR KARAKUYU","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":35.32104259376987,"city":"Denizli","dam":"C\u0130NDERE","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":-192.70998415213947,"city":"Burdur","dam":"KARACA\u00d6REN II","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":47.50335570469799,"city":"Antalya","dam":"MANAVGAT","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":4.602949134199134,"city":"Burdur","dam":"KARACA\u00d6REN I","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":13.593539703903096,"city":"Isparta","dam":"SORGUN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":0.0,"city":"Ankara","dam":"YEN\u0130CE","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":63.98389322933154,"city":"Eski\u015fehir","dam":"SARIYAR","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":17.348130841121495,"city":"D\u00fczce","dam":"HASANLAR","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":24.36373276776246,"city":"Bolu","dam":"K\u00d6PR\u00dcBA\u015eI","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":35.43832142926272,"city":"Giresun","dam":"KILI\u00c7KAYA","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":26.630716745012343,"city":"Samsun","dam":"H.U\u011eURLU","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":70.33475783475784,"city":"Samsun","dam":"S.U\u011eURLU","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":25.108475556841192,"city":"Tokat","dam":"ALMUS","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":71.37345679012346,"city":"Tokat","dam":"TEPEKI\u015eLA","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":59.8350622406639,"city":"Samsun","dam":"ALTINKAYA","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":83.27868852459017,"city":"Samsun","dam":"DERBENT","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":94.5578231292517,"city":"K\u0131r\u015fehir","dam":"KES\u0130KK\u00d6PR\u00dc","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":79.70489485774871,"city":"K\u0131r\u0131kkale","dam":"KAPULUKAYA","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":66.42998316375082,"city":"\u00c7orum","dam":"OBRUK","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":60.0,"city":"Nev\u015fehir","dam":"BAYRAMHACILI HES","date":"2024-11-20T00:00:00+03:00"},{"activeFullnessAmount":73.33333333333333,"city":"Sivas","dam":"\u00c7ERM\u0130KLER","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":40.950053459599815,"city":"Karaman","dam":"GEZENDE","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":16.903798459731107,"city":"Mersin","dam":"BERDAN","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":47.800586510263926,"city":"Adana","dam":"KARAKUZ","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":37.7383625775511,"city":"Mersin","dam":"PAMUKLUK","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":61.09327983951856,"city":"Van","dam":"MORGED\u0130K","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":21.20343839541547,"city":"Ankara","dam":"G\u00dcRS\u00d6\u011e\u00dcT-2","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":10.589619558112172,"city":"Antalya","dam":"OYMAPINAR","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":30.51176656578888,"city":"Ankara","dam":"G\u00d6K\u00c7EKAYA","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":26.482982171799026,"city":"Bursa","dam":"BO\u011eAZK\u00d6Y","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":73.87387387387388,"city":"Tokat","dam":"ATAK\u00d6Y","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":94.91993373826615,"city":"Sivas","dam":"\u00c7AMLIG\u00d6ZE","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":6.87374749498998,"city":"Sivas","dam":"G\u00d6LOVA","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":8.32562620423892,"city":"Kayseri","dam":"YAMULA","date":"2024-11-20T00:00:00+03:00"},{"activeFullnessAmount":32.62054208273894,"city":"Sinop","dam":"BOYABAT","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":34.24190800681431,"city":"\u00c7ank\u0131r\u0131","dam":"G\u00dcLD\u00dcRCEK","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":51.348214285714285,"city":"Kahramanmara\u015f","dam":"ADATEPE","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":12.597402597402597,"city":"Giresun","dam":"YA\u015eMAKLI","date":"2024-11-21 00:00:00+03:00"},{"activeFullnessAmount":6.45,"city":"Istanbul","dam":"Alibey","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":29.38,"city":"Istanbul","dam":"Darlik","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":24.85,"city":"Istanbul","dam":"Omerli","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":29.26,"city":"Istanbul","dam":"BCekmece","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":49.9,"city":"Istanbul","dam":"Elmali","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":40.52,"city":"Istanbul","dam":"Istrancalar","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":7.85,"city":"Istanbul","dam":"Kazandere","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":5.26,"city":"Istanbul","dam":"Pabucdere","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":38.53,"city":"Istanbul","dam":"Sazlidere","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":35.14,"city":"Istanbul","dam":"Terkos","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":12.11,"city":"Izmir","dam":"Tahtal\u0131 Baraj\u0131","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":12.99,"city":"Izmir","dam":"Bal\u00e7ova Baraj\u0131","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":6.57,"city":"Izmir","dam":"\u00dcrkmez Baraj\u0131","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":64.67,"city":"Izmir","dam":"G\u00fczelhisar Baraj\u0131","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":1.53,"city":"Izmir","dam":"G\u00f6rdes Baraj\u0131","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":7.54,"city":"Izmir","dam":"Ala\u00e7at\u0131 Kutlu Akta\u015f Baraj\u0131","date":"2024-11-21 00:00:00"},{"activeFullnessAmount":27.40843603541052,"city":"Yalova","dam":"G\u00d6K\u00c7ELER","date":"2024-11-21 00:00:00+03:00"}]}
+{
+  "dams": [
+    {
+      "activeFullnessAmount": 53.66659036282477,
+      "city": "Karaman",
+      "dam": "ERMENEK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 52.932657494569156,
+      "city": "Mersin",
+      "dam": "ALAKÖPRÜ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 4.318795087835233,
+      "city": "Adana",
+      "dam": "ÇATALAN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 9.6282490764469,
+      "city": "Adana",
+      "dam": "YEDİGÖZE",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 36.9925873632192,
+      "city": "Adana",
+      "dam": "FEKE-2",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 21.11062141912737,
+      "city": "Adana",
+      "dam": "MENGE HES",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 51.455026455026456,
+      "city": "Adana",
+      "dam": "KAVŞAKBENDİ HES",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 46.80655737704918,
+      "city": "Kayseri",
+      "dam": "GÜMÜŞÖREN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 13.805668016194332,
+      "city": "Adana",
+      "dam": "GÖKTAŞ-1",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 37.18499127399651,
+      "city": "Osmaniye",
+      "dam": "ASLANTAŞ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 50.79619602943218,
+      "city": "Kahramanmaraş",
+      "dam": "MENZELET",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 26.836475464634308,
+      "city": "Kahramanmaraş",
+      "dam": "SIR",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 12.356061586233665,
+      "city": "Adana",
+      "dam": "KOZAN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 19.274785421072274,
+      "city": "Kahramanmaraş",
+      "dam": "KARTALKAYA",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 92.35099337748345,
+      "city": null,
+      "dam": "BERKE ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 41.44144144144144,
+      "city": "Kahramanmaraş",
+      "dam": "KILAVUZLU",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 24.328173374613,
+      "city": "Kahramanmaraş",
+      "dam": "KANDİL HES",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 90.35065267468646,
+      "city": "Kahramanmaraş",
+      "dam": "SARIGÜZEL HES",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 48.82452510814369,
+      "city": "Gümüşhane",
+      "dam": "KÜRTÜN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 7.572230590168424,
+      "city": "Gümüşhane",
+      "dam": "TORUL",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 3.0934343434343434,
+      "city": "Ordu",
+      "dam": "TOPÇAM-ORDU",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 34.7594780758246,
+      "city": "Van",
+      "dam": "SARIMEHMET",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 59.3629230589062,
+      "city": "Van",
+      "dam": "ZERNEK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 1.0674330288412193,
+      "city": "Antalya",
+      "dam": "YALNIZARDIÇ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 20.26200776973336,
+      "city": "Yozgat",
+      "dam": "ÇEKEREK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 57.97546012269939,
+      "city": "Sakarya",
+      "dam": "KARGI BARAJI VE HES",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 47.379223239658984,
+      "city": "Hatay",
+      "dam": "BÜYÜK KARAÇAY",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 1.6399286987522281,
+      "city": "Bartın",
+      "dam": "KİRAZLIKÖPRÜ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 73.3026874115983,
+      "city": "Ankara",
+      "dam": "GÜRSÖĞÜT-1 BARAJI",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 0.8578544414721889,
+      "city": "Çanakkale",
+      "dam": "YENİCE-GÖNEN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 9.614313561681982,
+      "city": "Balıkesir",
+      "dam": "ÇAYGÖREN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 28.77285318559557,
+      "city": "Balıkesir",
+      "dam": "MANYAS",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 29.05937148669629,
+      "city": "Bursa",
+      "dam": "ÇINARCIK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 66.48936170212765,
+      "city": "Bursa",
+      "dam": "DEVECİKONAĞI",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 1.1680351567017462,
+      "city": "Çanakkale",
+      "dam": "BAYRAMİÇ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 41.753926701570684,
+      "city": "Afyonkarahisar",
+      "dam": "ÇAPALI DİNAR KARAKUYU",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 35.32104259376987,
+      "city": "Denizli",
+      "dam": "CİNDERE",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": -192.70998415213947,
+      "city": "Burdur",
+      "dam": "KARACAÖREN II",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 47.50335570469799,
+      "city": "Antalya",
+      "dam": "MANAVGAT",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 4.602949134199134,
+      "city": "Burdur",
+      "dam": "KARACAÖREN I",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 13.593539703903096,
+      "city": "Isparta",
+      "dam": "SORGUN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 0.0,
+      "city": "Ankara",
+      "dam": "YENİCE",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 63.98389322933154,
+      "city": "Eskişehir",
+      "dam": "SARIYAR",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 17.348130841121495,
+      "city": "Düzce",
+      "dam": "HASANLAR",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 24.36373276776246,
+      "city": "Bolu",
+      "dam": "KÖPRÜBAŞI",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 35.43832142926272,
+      "city": "Giresun",
+      "dam": "KILIÇKAYA",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 26.630716745012343,
+      "city": "Samsun",
+      "dam": "H.UĞURLU",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 70.33475783475784,
+      "city": "Samsun",
+      "dam": "S.UĞURLU",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 25.108475556841192,
+      "city": "Tokat",
+      "dam": "ALMUS",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 71.37345679012346,
+      "city": "Tokat",
+      "dam": "TEPEKIŞLA",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 59.8350622406639,
+      "city": "Samsun",
+      "dam": "ALTINKAYA",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 83.27868852459017,
+      "city": "Samsun",
+      "dam": "DERBENT",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 94.5578231292517,
+      "city": "Kırşehir",
+      "dam": "KESİKKÖPRÜ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 79.70489485774871,
+      "city": "Kırıkkale",
+      "dam": "KAPULUKAYA",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 66.42998316375082,
+      "city": "Çorum",
+      "dam": "OBRUK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 73.33333333333333,
+      "city": "Sivas",
+      "dam": "ÇERMİKLER",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 40.950053459599815,
+      "city": "Karaman",
+      "dam": "GEZENDE",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 16.903798459731107,
+      "city": "Mersin",
+      "dam": "BERDAN",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 27.40843603541052,
+      "city": "Yalova",
+      "dam": "GÖKÇELER",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 47.800586510263926,
+      "city": "Adana",
+      "dam": "KARAKUZ",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 37.7383625775511,
+      "city": "Mersin",
+      "dam": "PAMUKLUK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 61.09327983951856,
+      "city": "Van",
+      "dam": "MORGEDİK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 21.20343839541547,
+      "city": "Ankara",
+      "dam": "GÜRSÖĞÜT-2",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 10.589619558112172,
+      "city": "Antalya",
+      "dam": "OYMAPINAR",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 30.51176656578888,
+      "city": "Ankara",
+      "dam": "GÖKÇEKAYA",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 26.482982171799026,
+      "city": "Bursa",
+      "dam": "BOĞAZKÖY",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 73.87387387387388,
+      "city": "Tokat",
+      "dam": "ATAKÖY",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 94.91993373826615,
+      "city": "Sivas",
+      "dam": "ÇAMLIGÖZE",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 6.87374749498998,
+      "city": "Sivas",
+      "dam": "GÖLOVA",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 32.62054208273894,
+      "city": "Sinop",
+      "dam": "BOYABAT",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 34.24190800681431,
+      "city": "Çankırı",
+      "dam": "GÜLDÜRCEK",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 51.348214285714285,
+      "city": "Kahramanmaraş",
+      "dam": "ADATEPE",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 12.597402597402597,
+      "city": "Giresun",
+      "dam": "YAŞMAKLI",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 6.45,
+      "city": "Istanbul",
+      "dam": "Alibey",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 29.38,
+      "city": "Istanbul",
+      "dam": "Darlik",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 24.85,
+      "city": "Istanbul",
+      "dam": "Omerli",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 29.26,
+      "city": "Istanbul",
+      "dam": "BCekmece",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 49.9,
+      "city": "Istanbul",
+      "dam": "Elmali",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 40.52,
+      "city": "Istanbul",
+      "dam": "Istrancalar",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 7.85,
+      "city": "Istanbul",
+      "dam": "Kazandere",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 5.26,
+      "city": "Istanbul",
+      "dam": "Pabucdere",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 38.53,
+      "city": "Istanbul",
+      "dam": "Sazlidere",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 35.14,
+      "city": "Istanbul",
+      "dam": "Terkos",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 12.11,
+      "city": "Izmir",
+      "dam": "Tahtalı Barajı",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 12.99,
+      "city": "Izmir",
+      "dam": "Balçova Barajı",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 6.57,
+      "city": "Izmir",
+      "dam": "Ürkmez Barajı",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 64.67,
+      "city": "Izmir",
+      "dam": "Güzelhisar Barajı",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 1.53,
+      "city": "Izmir",
+      "dam": "Gördes Barajı",
+      "date": "2024-11-21T00:00:00Z"
+    },
+    {
+      "activeFullnessAmount": 7.54,
+      "city": "Izmir",
+      "dam": "Alaçatı Kutlu Aktaş Barajı",
+      "date": "2024-11-21T00:00:00Z"
+    }
+  ]
+}
